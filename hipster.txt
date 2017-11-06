@@ -1,3 +1,0 @@
-SOme sample text to test the staging area.
-
-Some more text to test the staging area.
