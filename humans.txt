@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Kartik Krishnan   kkrishnan@axway.com
 
 # THANKS
 
