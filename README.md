@@ -17,4 +17,4 @@ Sample deployment
 Please fork this repo and issue pull request for review.
 
 ### Copyright
-2017 Git.Training
+2017 Git.Training. All rights reserved.
