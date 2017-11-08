@@ -8,7 +8,7 @@ Example to show different parts of Git repo and various commands.
 ## Purpose
 
 Sample website with plenty of files for demos
-This demo is for rebasing.
+This demo is for rebasing, more changes from myfeature branch
 
 ## Deployment
 Sample deployment
